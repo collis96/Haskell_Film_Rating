@@ -1,6 +1,6 @@
-# Haskell_Film_Rating
+# Haskell Film Rating Application
 
-A functional film rating system made in Haskell.
+A functional film rating system made in Haskell. This was a project I completed whilst at University.
 
 1. Load the module into WinGHCI. 
 2. Start the module by typing 'main'.
